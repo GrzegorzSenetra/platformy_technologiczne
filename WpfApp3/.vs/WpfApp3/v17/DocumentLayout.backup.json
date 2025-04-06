@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|c:\\users\\d214s21x\\source\\repos\\ptlab2\\wpfapp3\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|c:\\users\\d214s21x\\source\\repos\\ptlab2\\wpfapp3\\wpfapp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|solutionrelative:wpfapp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|c:\\users\\d214s21x\\source\\repos\\ptlab2\\wpfapp3\\entities\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|solutionrelative:entities\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|c:\\users\\d214s21x\\source\\repos\\ptlab2\\wpfapp3\\viewmodels\\directoryinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|solutionrelative:viewmodels\\directoryinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|c:\\users\\d214s21x\\source\\repos\\ptlab2\\wpfapp3\\viewmodels\\fileexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|solutionrelative:viewmodels\\fileexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|c:\\users\\d214s21x\\source\\repos\\ptlab2\\wpfapp3\\viewmodels\\fileinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|solutionrelative:viewmodels\\fileinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|c:\\users\\d214s21x\\source\\repos\\ptlab2\\wpfapp3\\viewmodels\\filesysteminfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|solutionrelative:viewmodels\\filesysteminfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|c:\\users\\d214s21x\\source\\repos\\ptlab2\\wpfapp3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|c:\\users\\d214s21x\\source\\repos\\ptlab2\\wpfapp3\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|c:\\users\\d214s21x\\source\\repos\\ptlab2\\wpfapp3\\createdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|solutionrelative:createdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|c:\\users\\d214s21x\\source\\repos\\ptlab2\\wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|c:\\users\\d214s21x\\source\\repos\\ptlab2\\wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A7FB27-AA6B-4A67-AEBC-7D3BA9A47B2D}|WpfApp3.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\Entities\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "Entities\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\Entities\\ViewModelBase.cs",
+              "RelativeToolTip": "Entities\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:45:03.022Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileSystemInfoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\ViewModels\\FileSystemInfoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\FileSystemInfoViewModel.cs",
+              "ToolTip": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\ViewModels\\FileSystemInfoViewModel.cs",
+              "RelativeToolTip": "ViewModels\\FileSystemInfoViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:03:30.021Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DirectoryInfoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\ViewModels\\DirectoryInfoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DirectoryInfoViewModel.cs",
+              "ToolTip": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\ViewModels\\DirectoryInfoViewModel.cs",
+              "RelativeToolTip": "ViewModels\\DirectoryInfoViewModel.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAswKQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:08:02.175Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:47:38.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WpfApp3.csproj",
+              "DocumentMoniker": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\WpfApp3.csproj",
+              "RelativeDocumentMoniker": "WpfApp3.csproj",
+              "ToolTip": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\WpfApp3.csproj",
+              "RelativeToolTip": "WpfApp3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T10:42:31.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileExplorer.cs",
+              "DocumentMoniker": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\ViewModels\\FileExplorer.cs",
+              "RelativeDocumentMoniker": "ViewModels\\FileExplorer.cs",
+              "ToolTip": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\ViewModels\\FileExplorer.cs",
+              "RelativeToolTip": "ViewModels\\FileExplorer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:47:20.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileInfoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\ViewModels\\FileInfoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\FileInfoViewModel.cs",
+              "ToolTip": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\ViewModels\\FileInfoViewModel.cs",
+              "RelativeToolTip": "ViewModels\\FileInfoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:06:55.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:42:14.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-05T12:42:18.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\CreateDialog.xaml",
+              "RelativeDocumentMoniker": "CreateDialog.xaml",
+              "ToolTip": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\CreateDialog.xaml",
+              "RelativeToolTip": "CreateDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-05T18:47:34.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAMwBsBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:42:27.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\d214s21x\\source\\repos\\PTlab2\\WpfApp3\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-05T12:45:07.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
